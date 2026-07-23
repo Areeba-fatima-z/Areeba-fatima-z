@@ -1,73 +1,91 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:7b2ff7,100:00f5d4&height=220&section=header&text=Hi%2C%20I'm%20Areeba%20Fatima&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Dev%20%7C%20Flask%20%26%20Django%20Enthusiast%20%7C%20CS%20Student&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFD1DC,50:C7CEEA,100:B5EAD7&height=200&section=header&text=Areeba%20Fatima&fontSize=40&fontColor=4A4453&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer&descAlignY=62&descSize=16&descColor=5c5470"/>
 
-<img src="https://readme-typing-svg.demolab.com/?lines=console.log('building+cool+stuff...');&font=Fira+Code&size=20&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=600&background=0D02210D"/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3500&pause=1200&color=B892D6&center=true&vCenter=true&width=520&lines=building+things+one+bug+at+a+time;flask+%2B+sql+%2B+curiosity;welcome+to+my+profile+%3A%29"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/areebafatimazafar">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=4A4453"/>
 </a>
-<a href="mailto:arzolk789@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Reach%20Out-00F5D4?style=for-the-badge&logo=gmail&logoColor=0D0221"/>
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-FFD1DC?style=for-the-badge&logo=gmail&logoColor=4A4453"/>
 </a>
 
 </div>
 
 <br/>
 
-## 🧬 About Me
+<div align="center">
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/video-game_1f3ae.gif" width="28"/>
+<b> ABOUT ME </b>
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="28"/>
+</div>
 
-```yaml
-student: FAST-NUCES, Faisalabad — Computer Science
-currently_learning: [Flask, Django, DOM/JavaScript]
-currently_building: BankFlow — a full banking system w/ fraud detection
-interested_in: Backend Development, System Design, Automation
-fun_fact: "wrote a fully playable Atari Breakout in raw x86 Assembly"
-```
+<table align="center">
+<tr>
+<td>
+
+🎓 &nbsp;Computer Science student at **FAST-NUCES, Faisalabad**
+💻 &nbsp;Backend developer — comfortable with **Flask, SQL, and Python**
+🧩 &nbsp;I enjoy solving problems from the ground up — from OS-level concepts to full web apps
+🕹️ &nbsp;Once built a fully playable **Atari Breakout in raw x86 Assembly**, just to see if I could
+🌸 &nbsp;I like clean architecture as much as I like clean UI
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-## ⚡ Tech Arsenal
+<div align="center">
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/floppy-disk_1f4be.gif" width="26"/>
+<b> TECH STACK </b>
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/floppy-disk_1f4be.gif" width="26"/>
+</div>
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D0221?style=for-the-badge&logo=python&logoColor=00F5D4)
-![Flask](https://img.shields.io/badge/Flask-0D0221?style=for-the-badge&logo=flask&logoColor=00F5D4)
-![Django](https://img.shields.io/badge/Django-0D0221?style=for-the-badge&logo=django&logoColor=7B2FF7)
-![C++](https://img.shields.io/badge/C++-0D0221?style=for-the-badge&logo=cplusplus&logoColor=00F5D4)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D0221?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![SQL](https://img.shields.io/badge/SQL-0D0221?style=for-the-badge&logo=postgresql&logoColor=7B2FF7)
-![Oracle](https://img.shields.io/badge/Oracle-0D0221?style=for-the-badge&logo=oracle&logoColor=00F5D4)
-![Assembly](https://img.shields.io/badge/x86_Assembly-0D0221?style=for-the-badge&logo=assemblyscript&logoColor=7B2FF7)
-![Git](https://img.shields.io/badge/Git-0D0221?style=for-the-badge&logo=git&logoColor=F05032)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D0221?style=for-the-badge&logo=bootstrap&logoColor=7B2FF7)
+![Python](https://img.shields.io/badge/Python-FFF4E0?style=for-the-badge&logo=python&logoColor=B892D6)
+![Flask](https://img.shields.io/badge/Flask-FFF4E0?style=for-the-badge&logo=flask&logoColor=9AA1D9)
+![Django](https://img.shields.io/badge/Django-FFF4E0?style=for-the-badge&logo=django&logoColor=87C4B4)
+![C++](https://img.shields.io/badge/C++-FFF4E0?style=for-the-badge&logo=cplusplus&logoColor=B892D6)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFF4E0?style=for-the-badge&logo=javascript&logoColor=F5CBA7)
+![SQL](https://img.shields.io/badge/SQL-FFF4E0?style=for-the-badge&logo=postgresql&logoColor=9AA1D9)
+![Oracle](https://img.shields.io/badge/Oracle-FFF4E0?style=for-the-badge&logo=oracle&logoColor=87C4B4)
+![Assembly](https://img.shields.io/badge/x86_Assembly-FFF4E0?style=for-the-badge&logo=assemblyscript&logoColor=B892D6)
+![Git](https://img.shields.io/badge/Git-FFF4E0?style=for-the-badge&logo=git&logoColor=E8998D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-FFF4E0?style=for-the-badge&logo=bootstrap&logoColor=9AA1D9)
 
 </div>
 
 <br/>
 
-## 🚀 Featured Builds
+<div align="center">
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/star_2b50.gif" width="24"/>
+<b> FEATURED BUILDS </b>
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/star_2b50.gif" width="24"/>
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🏦 BankFlow
-**Full-stack Banking & Financial Management System**
+**🏦 BankFlow**
+_Banking & Financial Management System_
 
-Flask + SQLite system with customer/account/transaction/loan modules, role-based access (Admin, Manager, Customer), live currency conversion, email alerts, and a fraud-detection engine flagging suspicious transactions in real time.
+Flask + SQLite system with customer, account, transaction, and loan modules, role-based access for admins/managers/customers, live currency conversion, email alerts, and a fraud-detection engine.
 
 `Flask` `SQLite` `Flask-Login` `Bootstrap 5`
 
 </td>
 <td width="50%" valign="top">
 
-### 📄 PDF → DOCX Converter
-**Async document conversion pipeline**
+**📄 PDF → DOCX Converter**
+_Async document conversion pipeline_
 
-Drag-and-drop converter with background job processing, batch handling, and live progress polling — built end-to-end from architecture to deployment.
+Drag-and-drop converter with background job processing, batch handling, and live progress polling, built end-to-end from architecture to deployment.
 
 `Flask` `PyMuPDF` `Redis/RQ` `JavaScript`
 
@@ -76,20 +94,20 @@ Drag-and-drop converter with background job processing, batch handling, and live
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Student Performance Tracker
-**Deployed analytics dashboard**
+**📊 Student Performance Tracker**
+_Deployed analytics dashboard_
 
-Flask + SQLite app with Chart.js visualizations, live on Render — currently my strongest deployed portfolio piece.
+Flask + SQLite app with Chart.js visualizations, deployed live on Render.
 
 `Flask` `SQLite` `Chart.js`
 
 </td>
 <td width="50%" valign="top">
 
-### 🕹️ Atari Breakout — in Assembly
-**Because why not code a game in x86?**
+**🕹️ Atari Breakout — in Assembly**
+_A playable game in raw machine code_
 
-Fully playable Breakout clone in 16-bit NASM Assembly, runs as a DOS `.COM` file with direct video memory rendering, real-time input, and full collision physics.
+Fully playable Breakout clone in 16-bit NASM Assembly, running as a DOS `.COM` file with direct video-memory rendering and full collision physics.
 
 `x86 NASM` `Low-level Programming`
 
@@ -99,31 +117,37 @@ Fully playable Breakout clone in 16-bit NASM Assembly, runs as a DOS `.COM` file
 
 <br/>
 
-## 📈 GitHub Stats
+<div align="center">
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/bar-chart_1f4ca.gif" width="24"/>
+<b> GITHUB STATS </b>
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/bar-chart_1f4ca.gif" width="24"/>
+</div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Areeba-fatima-z&show_icons=true&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5D4&icon_color=7B2FF7&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeba-fatima-z&layout=compact&theme=radical&hide_border=true&bg_color=0D0221&title_color=00F5D4&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Areeba-fatima-z&show_icons=true&theme=cobalt2&hide_border=true&bg_color=FFF4E0&title_color=B892D6&icon_color=87C4B4&text_color=5c5470" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeba-fatima-z&layout=compact&theme=cobalt2&hide_border=true&bg_color=FFF4E0&title_color=B892D6&text_color=5c5470" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeba-fatima-z&theme=radical&hide_border=true&background=0D0221&stroke=7B2FF7&ring=00F5D4&fire=00F5D4&currStreakLabel=00F5D4"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeba-fatima-z&theme=cobalt2&hide_border=true&background=FFF4E0&stroke=B892D6&ring=E8998D&fire=E8998D&currStreakLabel=B892D6"/>
 
 </div>
 
 <br/>
 
-## 🤝 Let's Connect
-
 <div align="center">
 
-I'm always up for talking backend architecture, Flask internals, or debugging war stories.
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/love-letter_1f48c.gif" width="26"/>
+<b> LET'S CONNECT </b>
+<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/love-letter_1f48c.gif" width="26"/>
+
+<br/><br/>
 
 <a href="https://www.linkedin.com/in/areebafatimazafar">
-  <img src="https://img.shields.io/badge/LinkedIn-areebafatimazafar-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-areebafatimazafar-C7CEEA?style=flat-square&logo=linkedin&logoColor=4A4453"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:7b2ff7,100:0d0221&height=100&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B5EAD7,50:C7CEEA,100:FFD1DC&height=100&section=footer"/>
 
 </div>
