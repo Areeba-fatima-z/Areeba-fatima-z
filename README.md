@@ -9,7 +9,7 @@
 <a href="https://www.linkedin.com/in/areebafatimazafar">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-7B2FF7?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:youremail@example.com">
+<a href="mailto:arzolk789@gmail.com">
   <img src="https://img.shields.io/badge/Email-Reach%20Out-00F5D4?style=for-the-badge&logo=gmail&logoColor=0D0221"/>
 </a>
 
