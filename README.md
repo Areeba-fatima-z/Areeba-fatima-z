@@ -13,12 +13,12 @@
 
 <br/>
 
-## 🎮 About Me
+##  About Me
 
-- 🎓 &nbsp;CS student at **FAST-NUCES, Faisalabad**
-- 🐛 &nbsp;Debugging is genuinely my strongest skill, give me a stack trace and a raw SQL query and I'll find the bug
-- 🕹️ &nbsp;For fun, I once wrote a fully playable **Atari Breakout in 16-bit x86 Assembly**, rendering straight to video memory *no engine, no libraries
-- 🧠 &nbsp;Also built an **AI pathfinding agent** benchmarking 5 search algorithms, and a **University Management System** using AVL Trees, Hash Tables, and Graphs
+- &nbsp;CS student at **FAST-NUCES, Faisalabad**
+- &nbsp;Debugging is genuinely my strongest skill, give me a stack trace and a raw SQL query and I'll find the bug
+- &nbsp;For fun, I once wrote a fully playable **Atari Breakout in 16-bit x86 Assembly**, rendering straight to video memory *no engine, no libraries
+- &nbsp;Also built an **AI pathfinding agent** benchmarking 5 search algorithms, and a **University Management System** using AVL Trees, Hash Tables, and Graphs
 
 <br/>
 
@@ -138,9 +138,6 @@ A front-end website project focused on structuring and styling static pages with
 ## 📊 GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Areeba-fatima-z&show_icons=true&theme=cobalt2&hide_border=true&bg_color=2D2D3A&title_color=B892D6&icon_color=C9F0E0&text_color=e8e6f0" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeba-fatima-z&layout=compact&theme=cobalt2&hide_border=true&bg_color=2D2D3A&title_color=B892D6&text_color=e8e6f0" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeba-fatima-z&theme=cobalt2&hide_border=true&background=2D2D3A&stroke=B892D6&ring=FFC2C2&fire=FFC2C2&currStreakLabel=B892D6"/>
 
