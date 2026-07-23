@@ -155,7 +155,7 @@ A front-end website project focused on structuring and styling static pages with
 
 <br/><br/>
 
-<a href="mailto:youremail@example.com">
+<a href="mailto:arzolk789@gmail.com">
   <img src="https://img.shields.io/badge/Email-Say%20Hi-FFC2C2?style=for-the-badge&logo=gmail&logoColor=2D2D3A" width="220"/>
 </a>
 
