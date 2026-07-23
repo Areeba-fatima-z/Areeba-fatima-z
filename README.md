@@ -2,13 +2,12 @@
 
 # 🌸 Areeba Fatima
 
-### Computer Science Student &nbsp;|&nbsp; Backend Developer
+### Computer Science Student &nbsp;|&nbsp; Software Developer
 
 <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=B892D6&center=true&vCenter=true&width=460&lines=flask+%2B+sql+%2B+curiosity"/>
 
 &nbsp;
 
-🌷 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 🌷
 
 </div>
 
@@ -16,10 +15,9 @@
 
 ## 🎮 About Me
 
-- 🎓 &nbsp;CS student at **FAST-NUCES, Faisalabad**, currently interning as a **Web Developer at Content Arcade**, a Faisalabad-based IT company
-- 🏦 &nbsp;Right now I'm deep in **BankFlow**, a Flask + SQLite banking system where I designed the schema myself and just added a fraud-detection engine that flags suspicious withdrawals and overdraft attempts
-- 🐛 &nbsp;Debugging is genuinely my strongest skill — give me a stack trace and a raw SQL query and I'll find the bug
-- 🕹️ &nbsp;For fun, I once wrote a fully playable **Atari Breakout in 16-bit x86 Assembly**, rendering straight to video memory — no engine, no libraries
+- 🎓 &nbsp;CS student at **FAST-NUCES, Faisalabad**
+- 🐛 &nbsp;Debugging is genuinely my strongest skill, give me a stack trace and a raw SQL query and I'll find the bug
+- 🕹️ &nbsp;For fun, I once wrote a fully playable **Atari Breakout in 16-bit x86 Assembly**, rendering straight to video memory *no engine, no libraries
 - 🧠 &nbsp;Also built an **AI pathfinding agent** benchmarking 5 search algorithms, and a **University Management System** using AVL Trees, Hash Tables, and Graphs
 
 <br/>
@@ -30,7 +28,6 @@
 
 ![Python](https://img.shields.io/badge/Python-2D2D3A?style=for-the-badge&logo=python&logoColor=FFE3EC)
 ![Flask](https://img.shields.io/badge/Flask-2D2D3A?style=for-the-badge&logo=flask&logoColor=D6E0FF)
-![Django](https://img.shields.io/badge/Django-2D2D3A?style=for-the-badge&logo=django&logoColor=C9F0E0)
 ![C++](https://img.shields.io/badge/C++-2D2D3A?style=for-the-badge&logo=cplusplus&logoColor=FFE3EC)
 ![JavaScript](https://img.shields.io/badge/JavaScript-2D2D3A?style=for-the-badge&logo=javascript&logoColor=FFF1B8)
 ![SQL](https://img.shields.io/badge/SQL-2D2D3A?style=for-the-badge&logo=postgresql&logoColor=D6E0FF)
@@ -59,7 +56,7 @@ Flask + SQLite system with customer, account, transaction, and loan modules, rol
 </td>
 <td width="50%" valign="top">
 
-**📄 PDF → DOCX Converter**
+**📄 PDF to DOCX Converter**
 _Async document conversion pipeline_
 
 Drag-and-drop converter with background job processing, batch handling, and live progress polling, built end-to-end from architecture to deployment.
@@ -81,7 +78,7 @@ Flask + SQLite app with Chart.js visualizations, deployed live on Render.
 </td>
 <td width="50%" valign="top">
 
-**🕹️ Atari Breakout — in Assembly**
+**🕹️ Atari Breakout (Assembly)**
 _A playable game in raw machine code_
 
 Fully playable Breakout clone in 16-bit NASM Assembly, running as a DOS `.COM` file with direct video-memory rendering and full collision physics.
@@ -151,7 +148,7 @@ A front-end website project focused on structuring and styling static pages with
 
 <br/>
 
-## 💌 Let's Connect
+##  Let's Connect
 
 <div align="center">
 
