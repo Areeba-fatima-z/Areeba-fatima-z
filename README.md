@@ -1,72 +1,49 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:FFD1DC,50:C7CEEA,100:B5EAD7&height=200&section=header&text=Areeba%20Fatima&fontSize=40&fontColor=4A4453&animation=fadeIn&fontAlignY=40&desc=Computer%20Science%20Student%20%7C%20Backend%20Developer&descAlignY=62&descSize=16&descColor=5c5470"/>
+# 🌸 Areeba Fatima
 
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3500&pause=1200&color=B892D6&center=true&vCenter=true&width=520&lines=building+things+one+bug+at+a+time;flask+%2B+sql+%2B+curiosity;welcome+to+my+profile+%3A%29"/>
+### Computer Science Student &nbsp;|&nbsp; Backend Developer
 
-<br/><br/>
+<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=13&duration=3500&pause=1200&color=B892D6&center=true&vCenter=true&width=460&lines=flask+%2B+sql+%2B+curiosity"/>
 
-<a href="https://www.linkedin.com/in/areebafatimazafar">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-C7CEEA?style=for-the-badge&logo=linkedin&logoColor=4A4453"/>
-</a>
-<a href="mailto:youremail@example.com">
-  <img src="https://img.shields.io/badge/Email-Say%20Hi-FFD1DC?style=for-the-badge&logo=gmail&logoColor=4A4453"/>
-</a>
+&nbsp;
+
+🌷 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 🌷
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/video-game_1f3ae.gif" width="28"/>
-<b> ABOUT ME </b>
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/sparkles_2728.gif" width="28"/>
-</div>
+## 🎮 About Me
 
-<table align="center">
-<tr>
-<td>
-
-🎓 &nbsp;Computer Science student at **FAST-NUCES, Faisalabad**
-💻 &nbsp;Backend developer — comfortable with **Flask, SQL, and Python**
-🧩 &nbsp;I enjoy solving problems from the ground up — from OS-level concepts to full web apps
-🕹️ &nbsp;Once built a fully playable **Atari Breakout in raw x86 Assembly**, just to see if I could
-🌸 &nbsp;I like clean architecture as much as I like clean UI
-
-</td>
-</tr>
-</table>
+- 🎓 &nbsp;CS student at **FAST-NUCES, Faisalabad**, currently interning as a **Web Developer at Content Arcade**, a Faisalabad-based IT company
+- 🏦 &nbsp;Right now I'm deep in **BankFlow**, a Flask + SQLite banking system where I designed the schema myself and just added a fraud-detection engine that flags suspicious withdrawals and overdraft attempts
+- 🐛 &nbsp;Debugging is genuinely my strongest skill — give me a stack trace and a raw SQL query and I'll find the bug
+- 🕹️ &nbsp;For fun, I once wrote a fully playable **Atari Breakout in 16-bit x86 Assembly**, rendering straight to video memory — no engine, no libraries
+- 🧠 &nbsp;Also built an **AI pathfinding agent** benchmarking 5 search algorithms, and a **University Management System** using AVL Trees, Hash Tables, and Graphs
 
 <br/>
 
-<div align="center">
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/floppy-disk_1f4be.gif" width="26"/>
-<b> TECH STACK </b>
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/floppy-disk_1f4be.gif" width="26"/>
-</div>
+## 💾 Tech Stack
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-FFF4E0?style=for-the-badge&logo=python&logoColor=B892D6)
-![Flask](https://img.shields.io/badge/Flask-FFF4E0?style=for-the-badge&logo=flask&logoColor=9AA1D9)
-![Django](https://img.shields.io/badge/Django-FFF4E0?style=for-the-badge&logo=django&logoColor=87C4B4)
-![C++](https://img.shields.io/badge/C++-FFF4E0?style=for-the-badge&logo=cplusplus&logoColor=B892D6)
-![JavaScript](https://img.shields.io/badge/JavaScript-FFF4E0?style=for-the-badge&logo=javascript&logoColor=F5CBA7)
-![SQL](https://img.shields.io/badge/SQL-FFF4E0?style=for-the-badge&logo=postgresql&logoColor=9AA1D9)
-![Oracle](https://img.shields.io/badge/Oracle-FFF4E0?style=for-the-badge&logo=oracle&logoColor=87C4B4)
-![Assembly](https://img.shields.io/badge/x86_Assembly-FFF4E0?style=for-the-badge&logo=assemblyscript&logoColor=B892D6)
-![Git](https://img.shields.io/badge/Git-FFF4E0?style=for-the-badge&logo=git&logoColor=E8998D)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-FFF4E0?style=for-the-badge&logo=bootstrap&logoColor=9AA1D9)
+![Python](https://img.shields.io/badge/Python-2D2D3A?style=for-the-badge&logo=python&logoColor=FFE3EC)
+![Flask](https://img.shields.io/badge/Flask-2D2D3A?style=for-the-badge&logo=flask&logoColor=D6E0FF)
+![Django](https://img.shields.io/badge/Django-2D2D3A?style=for-the-badge&logo=django&logoColor=C9F0E0)
+![C++](https://img.shields.io/badge/C++-2D2D3A?style=for-the-badge&logo=cplusplus&logoColor=FFE3EC)
+![JavaScript](https://img.shields.io/badge/JavaScript-2D2D3A?style=for-the-badge&logo=javascript&logoColor=FFF1B8)
+![SQL](https://img.shields.io/badge/SQL-2D2D3A?style=for-the-badge&logo=postgresql&logoColor=D6E0FF)
+![Oracle](https://img.shields.io/badge/Oracle-2D2D3A?style=for-the-badge&logo=oracle&logoColor=C9F0E0)
+![Assembly](https://img.shields.io/badge/x86_Assembly-2D2D3A?style=for-the-badge&logo=assemblyscript&logoColor=FFE3EC)
+![Git](https://img.shields.io/badge/Git-2D2D3A?style=for-the-badge&logo=git&logoColor=FFC2C2)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-2D2D3A?style=for-the-badge&logo=bootstrap&logoColor=D6E0FF)
 
 </div>
 
 <br/>
 
-<div align="center">
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/star_2b50.gif" width="24"/>
-<b> FEATURED BUILDS </b>
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/star_2b50.gif" width="24"/>
-</div>
+## ⭐ Featured Builds
 
 <table>
 <tr>
@@ -113,22 +90,80 @@ Fully playable Breakout clone in 16-bit NASM Assembly, running as a DOS `.COM` f
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🚚 [Urban Delivery AI Agent](https://github.com/Areeba-fatima-z/Urban_Delivery_AI_Agent)**
+_AI pathfinding simulator_
+
+Compares five search algorithms on a dynamically generated urban grid, benchmarking cost, nodes explored, and execution time, with matplotlib visualizations.
+
+`Python` `AI Search` `matplotlib`
+
+</td>
+<td width="50%" valign="top">
+
+**🏛️ [Banking System (OS Concepts)](https://github.com/Areeba-fatima-z/Banking_System)**
+_Console-based OS simulation_
+
+C application demonstrating CPU scheduling, process synchronization, deadlock avoidance, IPC, and memory management through a banking simulation.
+
+`C` `Operating Systems`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎓 [University Management System](https://github.com/Areeba-fatima-z/University_Management_System_Data_Structures)**
+_Data structures in action_
+
+C++ campus management system built on Hash Tables, AVL Trees, Graphs, Queues, and Stacks for efficient record handling.
+
+`C++` `Data Structures`
+
+</td>
+<td width="50%" valign="top">
+
+**🌐 [Front-End Web Project](https://github.com/Areeba-fatima-z/Front-End-Web-Development-Project)**
+_Early web development practice_
+
+A front-end website project focused on structuring and styling static pages with HTML.
+
+`HTML`
+
+</td>
+</tr>
 </table>
 
 <br/>
 
+## 📊 GitHub Stats
+
 <div align="center">
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/bar-chart_1f4ca.gif" width="24"/>
-<b> GITHUB STATS </b>
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/bar-chart_1f4ca.gif" width="24"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Areeba-fatima-z&show_icons=true&theme=cobalt2&hide_border=true&bg_color=2D2D3A&title_color=B892D6&icon_color=C9F0E0&text_color=e8e6f0" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeba-fatima-z&layout=compact&theme=cobalt2&hide_border=true&bg_color=2D2D3A&title_color=B892D6&text_color=e8e6f0" height="165"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeba-fatima-z&theme=cobalt2&hide_border=true&background=2D2D3A&stroke=B892D6&ring=FFC2C2&fire=FFC2C2&currStreakLabel=B892D6"/>
+
 </div>
 
+<br/>
+
+## 💌 Let's Connect
+
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Areeba-fatima-z&show_icons=true&theme=cobalt2&hide_border=true&bg_color=FFF4E0&title_color=B892D6&icon_color=87C4B4&text_color=5c5470" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Areeba-fatima-z&layout=compact&theme=cobalt2&hide_border=true&bg_color=FFF4E0&title_color=B892D6&text_color=5c5470" height="165"/>
+<a href="https://www.linkedin.com/in/areebafatimazafar">
+  <img src="https://img.shields.io/badge/LinkedIn-Areeba%20Fatima%20Zafar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" width="320"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Areeba-fatima-z&theme=cobalt2&hide_border=true&background=FFF4E0&stroke=B892D6&ring=E8998D&fire=E8998D&currStreakLabel=B892D6"/>
+<br/><br/>
+
+<a href="mailto:youremail@example.com">
+  <img src="https://img.shields.io/badge/Email-Say%20Hi-FFC2C2?style=for-the-badge&logo=gmail&logoColor=2D2D3A" width="220"/>
+</a>
 
 </div>
 
@@ -136,18 +171,6 @@ Fully playable Breakout clone in 16-bit NASM Assembly, running as a DOS `.COM` f
 
 <div align="center">
 
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/love-letter_1f48c.gif" width="26"/>
-<b> LET'S CONNECT </b>
-<img src="https://em-content.zobj.net/source/animated-noto-color-emoji/356/love-letter_1f48c.gif" width="26"/>
-
-<br/><br/>
-
-<a href="https://www.linkedin.com/in/areebafatimazafar">
-  <img src="https://img.shields.io/badge/LinkedIn-areebafatimazafar-C7CEEA?style=flat-square&logo=linkedin&logoColor=4A4453"/>
-</a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:B5EAD7,50:C7CEEA,100:FFD1DC&height=100&section=footer"/>
+🌷 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈ 🌷
 
 </div>
